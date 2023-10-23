@@ -1,0 +1,43 @@
+.pictures-images {
+  display: grid;
+  grid-template-columns: repeat(4, 250px);
+  gap: 2rem;
+  margin-left: 165px;
+  color: white;
+}
+
+.img1-h1,
+.img1-h2,
+.img1-h3,
+.img1-h4,
+.img1-h5,
+.img1-h6,
+.img1-h7,
+.img1-h8 {
+  margin-top: -100px;
+  width: 200px;
+  margin-left: 30px;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 32px; /* 100% */
+  text-transform: uppercase;
+  filter: brightness(1.75);
+  backdrop-filter: brightness(30%);
+  text-shadow: 2px 2px #ffffff;
+}
+.img1-h1:hover {
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6,
+.img7,
+.img8 {
+  cursor: pointer;
+  filter: brightness(80%);
+}
+
+
