@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Loopstudio-Landing-page/static/css/main.7e42e1d3.css",
-    "main.js": "/Loopstudio-Landing-page/static/js/main.f7a6ef79.js",
+    "main.css": "/Loopstudio-Landing-page/static/css/main.f9e9023b.css",
+    "main.js": "/Loopstudio-Landing-page/static/js/main.64350839.js",
     "static/js/787.6d8a2c4b.chunk.js": "/Loopstudio-Landing-page/static/js/787.6d8a2c4b.chunk.js",
-    "static/media/image-hero.jpg": "/Loopstudio-Landing-page/static/media/image-hero.3de81110dee4f75f44f9.jpg",
+    "static/media/image-hero.jpg": "/Loopstudio-Landing-page/static/media/image-hero.9b5aacead42e955824d3.jpg",
     "static/media/image-from-above.jpg": "/Loopstudio-Landing-page/static/media/image-from-above.f316f3f3afc353415f71.jpg",
-    "static/media/image-interactive.jpg": "/Loopstudio-Landing-page/static/media/image-interactive.1d330522c9ca6cf07a9c.jpg",
+    "static/media/image-interactive.jpg": "/Loopstudio-Landing-page/static/media/image-interactive.d6a3949b27bb7a0c79c6.jpg",
     "static/media/image-curiosity.jpg": "/Loopstudio-Landing-page/static/media/image-curiosity.40d51f38342a87fea0cc.jpg",
     "static/media/image-soccer-team.jpg": "/Loopstudio-Landing-page/static/media/image-soccer-team.24ac0872cf2b5dd86a58.jpg",
     "static/media/image-night-arcade.jpg": "/Loopstudio-Landing-page/static/media/image-night-arcade.a5acf9d0f154b09407d4.jpg",
@@ -19,12 +19,12 @@
     "index.html": "/Loopstudio-Landing-page/index.html",
     "static/media/icon-twitter.svg": "/Loopstudio-Landing-page/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
     "static/media/icon-facebook.svg": "/Loopstudio-Landing-page/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
-    "main.7e42e1d3.css.map": "/Loopstudio-Landing-page/static/css/main.7e42e1d3.css.map",
-    "main.f7a6ef79.js.map": "/Loopstudio-Landing-page/static/js/main.f7a6ef79.js.map",
+    "main.f9e9023b.css.map": "/Loopstudio-Landing-page/static/css/main.f9e9023b.css.map",
+    "main.64350839.js.map": "/Loopstudio-Landing-page/static/js/main.64350839.js.map",
     "787.6d8a2c4b.chunk.js.map": "/Loopstudio-Landing-page/static/js/787.6d8a2c4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e42e1d3.css",
-    "static/js/main.f7a6ef79.js"
+    "static/css/main.f9e9023b.css",
+    "static/js/main.64350839.js"
   ]
 }
