@@ -39,8 +39,9 @@
   line-height: 70px; /* 97.222% */
   text-transform: uppercase;
 }
-.header-logo{
+.header-logo {
   position: absolute;
   margin-left: 165px;
   margin-top: 50px;
 }
+

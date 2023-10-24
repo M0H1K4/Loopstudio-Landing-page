@@ -1,0 +1,40 @@
+.Mobile-header {
+  background-image: url("../../images/mobile/image-hero.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 75%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: center;
+  height: 650px;
+  padding: 15px;
+}
+.middle {
+  padding: 0px 0px 0px 15px;
+  margin-top: 100px;
+}
+.Mobile_img {
+  width: 345px;
+  height: 224px;
+}
+
+@media (max-width: 768px) {
+  .added-div,
+  .footer-div,
+  .header-main_div,
+  .middle-main_div,
+  .pictures-images {
+    display: none !important;
+  }
+  .header-main_div {
+    background-color: tomato;
+  }
+}
+
+@media (min-width: 768px) {
+  .Mobile_div {
+    display: none !important;
+  }
+}
