@@ -1,0 +1,90 @@
+.image1 {
+  background-image: url("../../../images/mobile/image-deep-earth.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.image2 {
+  background-image: url("../../../images/mobile/image-night-arcade.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.image3 {
+  background-image: url("../../../images/mobile/image-soccer-team.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.image4 {
+  background-image: url("../../../images/mobile/image-grid.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.image5 {
+  background-image: url("../../../images/mobile/image-from-above.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.image6 {
+  background-image: url("../../../images/mobile/image-pocket-borealis.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.image7 {
+  background-image: url("../../../images/mobile/image-curiosity.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.image8 {
+  background-image: url("../../../images/mobile/image-fisheye.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 327px;
+  height: 120px;
+  flex-shrink: 0;
+}
+.images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+  margin-top: 80px;
+  filter: brightness(0.8);
+}
+.creations-h {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  line-height: 24px; /* 100% */
+  text-transform: uppercase;
+  margin-top: 40px;
+  padding: 15px;
+  width: 130px;
+
+}
+.creations-h1 {
+  text-align: center;
+}
+.creations-div {
+  margin-top: 80px;
+}

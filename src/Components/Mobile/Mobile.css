@@ -11,6 +11,20 @@
   height: 650px;
   padding: 15px;
 }
+.Mobile-txt_div{
+    border: 2px solid white;
+    margin-top: 200px;
+    width: 320px;
+}
+.Mobile-txt {
+  color: #fff;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 38px; /* 95% */
+  text-transform: uppercase;
+  margin-left: 20px;
+}
 .middle {
   padding: 0px 0px 0px 15px;
   margin-top: 100px;
@@ -18,6 +32,25 @@
 .Mobile_img {
   width: 350px;
   height: 224px;
+}
+.middle-h1 {
+  color: #000;
+  text-align: center;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 32px; /* 100% */
+  text-transform: uppercase;
+}
+.middle-p {
+  color: #000;
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  width: 279px;
+  margin-left: 35px;
 }
 
 @media (max-width: 768px) {
