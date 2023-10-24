@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Loopstudio-Landing-page/static/css/main.f9e9023b.css",
+    "main.css": "/Loopstudio-Landing-page/static/css/main.7590fdb8.css",
     "main.js": "/Loopstudio-Landing-page/static/js/main.64350839.js",
     "static/js/787.6d8a2c4b.chunk.js": "/Loopstudio-Landing-page/static/js/787.6d8a2c4b.chunk.js",
     "static/media/image-hero.jpg": "/Loopstudio-Landing-page/static/media/image-hero.9b5aacead42e955824d3.jpg",
@@ -19,12 +19,12 @@
     "index.html": "/Loopstudio-Landing-page/index.html",
     "static/media/icon-twitter.svg": "/Loopstudio-Landing-page/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
     "static/media/icon-facebook.svg": "/Loopstudio-Landing-page/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
-    "main.f9e9023b.css.map": "/Loopstudio-Landing-page/static/css/main.f9e9023b.css.map",
+    "main.7590fdb8.css.map": "/Loopstudio-Landing-page/static/css/main.7590fdb8.css.map",
     "main.64350839.js.map": "/Loopstudio-Landing-page/static/js/main.64350839.js.map",
     "787.6d8a2c4b.chunk.js.map": "/Loopstudio-Landing-page/static/js/787.6d8a2c4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9e9023b.css",
+    "static/css/main.7590fdb8.css",
     "static/js/main.64350839.js"
   ]
 }
