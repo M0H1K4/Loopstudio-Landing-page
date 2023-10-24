@@ -8,7 +8,7 @@
   flex-direction: column;
   justify-self: center;
   align-items: center;
-  height: 650px;
+  height: 600px;
   padding: 15px;
 }
 .Mobile-txt_div{
@@ -51,6 +51,11 @@
   line-height: 25px;
   width: 279px;
   margin-left: 35px;
+}
+.icon112{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
 }
 
 @media (max-width: 768px) {

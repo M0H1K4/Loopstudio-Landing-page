@@ -2,12 +2,14 @@ import React from "react";
 import MidImg from '../../images/mobile/image-interactive.jpg'
 import Creations from './MobileCreations/MobileCreations'
 import MobileF from './MobileFooter/MobileF'
+import icon122 from '../../images/logo.svg'
 
 import "./Mobile.css";
 
 export default function Mobile() {
   return (
     <div className="Mobile_div">
+        <img className="icon112" src={icon122}/>
       <header className="Mobile-header">
         <div className="Mobile-txt_div">
           <h1 className="Mobile-txt">Immersive experiences that deliver</h1>
